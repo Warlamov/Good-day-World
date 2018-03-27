@@ -1,2 +1,2 @@
 # Good-day-World
-Hi, I'm strudent, it'll be big route ahead.
+Hi, I'm a student, it'll be big route ahead.
